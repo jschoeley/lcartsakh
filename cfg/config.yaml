@@ -1,0 +1,30 @@
+# Global constants
+
+# figure specifications
+figspec:
+  dimensions: { width: 180 }
+  colors:
+    sex: { male: '#004b87', female: '#c60c30' }
+skeleton:
+  year: [2015, 2016, 2017, 2018, 2019, 2020]
+  age: {
+    age0: '0 - 4',
+    age5: '5 - 10',
+    age11: '11 - 14',
+    age15: '15 - 19',
+    age20: '20 - 24',
+    age25: '25 - 29',
+    age30: '30 - 34',
+    age35: '35 - 39',
+    age40: '40 - 44',
+    age45: '45 - 49',
+    age50: '50 - 54',
+    age55: '55 - 59',
+    age60: '60 - 64',
+    age65: '65 - 69',
+    age70: '70 - 74',
+    age75: '75 - 79',
+    age80: '80 - 84',
+    age85: '85+'
+  }
+  sex: { male: 'Male', female: 'Female' }
